@@ -21,7 +21,7 @@ Ensure you have Python 3.7 or higher installed. Install the required Python pack
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/pokemon-dashboard.git
+    git clone https://github.com/bm-bharath/Pokemon-Dashboard.git
     cd pokemon-dashboard
     ```
 
